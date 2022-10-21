@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+ }
+ main{
+    margin-top: 0px;
+    padding-top: 0px;
+ }
+ main div div{
+    padding: 100px 0px;
+ }
+ main div div h1{
+    margin-top: 0px;
+ }
+ main div div button{
+    background-color: black;
+    color: navy;
+ }
+ main div div button:hover{
+    background-color: red;
+    color: white;
+    transition: 0.5s ease-in-out;
+ }
+ 
+ img{
+    height: 300px;
+    width: 300px;
+    float:inline-end;
+    align-items: center;
+    justify-content: center;
+ }
+ .second{
+    background-color: white;
+    color: black;
+ }
+ .second div button{
+   background-color: black;
+   color: navy;
+   display: block;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   margin-left: 20px;
+   border: solid 2px navy;
+ }
+ .second div button:hover{
+   background-color: red;
+   color: white;
+   transition: 0.5s ease-in-out;
+ }
+ .second div ul{
+   display: block;
+ }
+ .second div .but{
+   background-color: green;
+   color: white;
+ }
+ .second div .but:hover{
+   background-color: burlywood;
+   color: navy;
+ }
+ .second .bible{
+   background-color: black;
+   color: navy;
+ }
+ .second .bible:hover{
+    background-color: red;
+    color: white;
+ }
+ 
+   
+
+
